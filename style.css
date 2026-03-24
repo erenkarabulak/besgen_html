@@ -28,6 +28,8 @@ body {
   background: var(--black);
   color: var(--white);
   overflow-x: hidden;
+  font-size: 16px; /* Optimized for readability */
+  line-height: 1.6;
 }
 
 ::-webkit-scrollbar {
