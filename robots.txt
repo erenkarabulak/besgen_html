@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://besgenasn.com.tr/sitemap.xml
